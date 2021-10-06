@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "Beispiel XY"
 ---
 
-More about this website.
+Hier könnten wir ein Beispiel einarbeiten.

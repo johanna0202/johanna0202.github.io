@@ -2,9 +2,9 @@ name: "Industriewald Ruhrgebiet"
 navbar:
   title: "Industriewald Ruhrgebiet"
   left:
-    - text: "Home"
+    - text: "Start"
       href: index.html
-    - text: "About"
+    - text: "Beispiel"
       href: about.html
 output:
   html_document:

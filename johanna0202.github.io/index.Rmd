@@ -2,4 +2,9 @@
 title: "Industriewald Ruhrgebiet"
 ---
 
-Hello, Website!
+Hallo das ist der erste Test für unsere Website über die Industriewälder im Ruhrgebiet.
+
+<img src="Industrie.jpg" style="width:50%">
+
+### Was genau sind die Industriewälder im Ruhrgebiet und wie sind sie entstanden?
+
