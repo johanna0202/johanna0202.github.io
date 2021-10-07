@@ -3,8 +3,18 @@ title: "Industriewald Ruhrgebiet"
 ---
 
 Hallo das ist der erste Test für unsere Website über die Industriewälder im Ruhrgebiet.
+Hier ein Überblick über alle Industriewäler im Ruhrgebiet:
 
-<img src="Industrie.jpg" style="width:50%">
+```{r, echo=FALSE}
+quakes_1 <- quakes %>% 
+  mutate(popup_info = paste( "Tiefe", depth, "<br/>", "Magnitude", mag, "<br/>", "Station", stations))
+
+leaflet() %>% 
+  addTiles() %>%
+  addCircleMarkers(data = quakes_1, lat = ~lat, lng = ~long, radius = ~0.1, popup = ~popup_info)
+
+```
+
 
 ### Was genau sind die Industriewälder im Ruhrgebiet und wie sind sie entstanden?
 
