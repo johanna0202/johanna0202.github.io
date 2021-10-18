@@ -12,9 +12,9 @@ navbar:
       href: beispiele.html
       menu:
         - text: "Industriewald X"
-          href: about.html
+          href: industriewald1.html
         - text: "Industriewald Y"
-          href: about2.html
+          href: industriewald2.html
 
   right:
     - text: "Über uns"
