@@ -2,10 +2,20 @@ name: "Industriewald Ruhrgebiet"
 navbar:
   title: "Industriewald Ruhrgebiet"
   left:
-    - text: "Start"
+    - text: "Überblick"
       href: index.html
-    - text: "Beispiel"
-      href: about.html
+    - text: "Ökologie"
+      href: oekologie.html
+    - text: "Mensch & Umwelt"
+      href: umwelt.html
+    - text: "Exemplarische Eindrücke"
+      href: beispiele.html
+      menu:
+        - text: "Industriewald X"
+          href: about.html
+        - text: "Industriewald Y"
+          href: about2.html
+
   right:
     - text: "Über uns"
       href: ueberuns.html

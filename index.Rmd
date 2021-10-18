@@ -5,16 +5,28 @@ title: "Industriewald Ruhrgebiet"
 Hallo das ist der erste Test für unsere Website über die Industriewälder im Ruhrgebiet.
 Hier ein Überblick über alle Industriewäler im Ruhrgebiet:
 
+```{r, echo=FALSE, results='hide'}
+
+wald <- read.csv( file = "wald_coord.csv")
+
+wald
+
+vec <- c(36.5, 25.2, 21.0, 2.8, 12.8, 8.0, 32.0, 1.3, 4.9, 15.3, 18.6, 24.5, 8.9, 5.0, 3.0)
+
+wald$new_col <- vec
+
+```
+
+
 ```{r, echo=FALSE}
-quakes_1 <- quakes %>% 
-  mutate(popup_info = paste( "Tiefe", depth, "<br/>", "Magnitude", mag, "<br/>", "Station", stations))
+wald_1 <- wald %>% 
+  mutate(popup_info = paste( Name, "<br/>", "Größe:", new_col, "ha"))
 
 leaflet() %>% 
   addTiles() %>%
-  addCircleMarkers(data = quakes_1, lat = ~lat, lng = ~long, radius = ~0.1, popup = ~popup_info)
+  addMarkers(data = wald_1, lat = ~ycoord, lng = ~xcoord, popup = ~popup_info )
 
 ```
 
 
 ### Was genau sind die Industriewälder im Ruhrgebiet und wie sind sie entstanden?
-

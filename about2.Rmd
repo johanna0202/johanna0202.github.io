@@ -1,0 +1,8 @@
+---
+title: "Beispiel 2"
+---
+
+Hier könnten wir ein Beispiel einarbeiten.
+
+<img src="Industrie.jpg" style="width:50%">
+
