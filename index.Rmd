@@ -2,8 +2,12 @@
 title: "Industriewald Ruhrgebiet"
 ---
 
+***
+
 Hallo das ist der erste Test für unsere Website über die Industriewälder im Ruhrgebiet.
 Hier ein Überblick über alle Industriewäler im Ruhrgebiet:
+
+***
 
 ```{r, echo=FALSE, results='hide'}
 
@@ -28,5 +32,6 @@ leaflet() %>%
 
 ```
 
+***
 
 ### Was genau sind die Industriewälder im Ruhrgebiet und wie sind sie entstanden?
