@@ -22,7 +22,7 @@ Aufgrund von verschiedenen Aspekten kann man den Industriewald Rheinelbe durchau
 
 Die vier Ziele, welche sich für das Projekt gesetzt wurden, können im Industriewald Rheinelbe umgesetzt werden. Auf dem Gelände ist ein vitaler und sich immer weiter entwickelnder Wald entstanden, welcher sowohl soziale als auch ökologische Funktionen für die Umgebung erfüllt. Bei geringer Pflege bekommt die Natur Zeit und Raum sich zu regenerieren, was interessant für die Besucher_innen ist. Insgesamt überrascht der Industriewald Rheinelbe mit einer reizvollen Mischung aus ungestörten Waldwegen, die einem ganz allein zu gehören scheinen, und einem urbanen Gesicht, wenn man sich plötzlich an Gartenzäunen gestrandet findet.
 
-```{r, echo = F, warning = F, fig.cap = '*Links: Blick auf die Forststation. Sie ist Sitz der Verwaltung von Wald und Holz NRW und liegt im Mitten im Industriewald Rheinelbe.  Mitte: Direkt angrenzend an die Forststation ist eine kleine Wasserfläche. Hinter ihr sieht man einen kleinen Birkenbestand und alte Industrieinfrastruktur, die überwachsen wird.  Rechts: Ein typischer Anblick beim Gang durch den Industriewald. Quelle: Eigene Aufnahme*', fig.width = 4, out.width = "100%"}
+```{r, echo = F, warning = F, fig.cap = '*Links: Blick auf die Forststation. Sie ist Sitz der Verwaltung von Wald und Holz NRW und liegt im Mitten im Industriewald Rheinelbe.  Mitte: Direkt angrenzend an die Forststation ist eine kleine Wasserfläche. Hinter ihr sieht man einen kleinen Birkenbestand und alte Industrieinfrastruktur, die überwachsen wird.  Rechts: Ein typischer Anblick beim Gang durch den Industriewald. (Quelle: Eigene Aufnahme 2021)*', fig.width = 4, out.width = "100%"}
 knitr::include_graphics('industriewald_1.PNG')
 ```
 
