@@ -17,7 +17,7 @@ navbar:
           href: industriewald2.html
 
   right:
-    - text: "Über uns"
+    - text: "Kontakt"
       href: ueberuns.html
 output:
   html_document:
