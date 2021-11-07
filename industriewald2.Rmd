@@ -11,7 +11,7 @@ knitr::include_graphics('ludwig1.PNG')
 > Der Industriewald “König Ludwig 1/2” in Recklinghausen hat eine Größe von 4,9 Hektar. Er befindet sich auf dem Gelände der ehemaligen Zeche König Ludwig, die bereits 1965 stillgelegt wurde. Es wurde im Rahmen dieses Projektes aus Zeitgründen keine Artbestimmung der Flora in den Industriewäldern gemacht, allerdings kann generell gesagt werden, dass es sich bei diesem Wald um einen Laubwald handelt. An vielen Stellen war der Boden zudem auch von Sträuchern bedeckt. 
      
      
-```{r, echo = F, warning = F, fig.cap = '*Links: Laubbäume und Sträucher Rechts: Baumkronen (Quelle: Eigene Darstellung 2021)*', fig.width = 4, out.width = "80%"}
+```{r, echo = F, warning = F, fig.cap = '*Links: Laubbäume und Sträucher Rechts: Baumkronen (Quelle: Eigene Aufnahme 2021)*', fig.width = 4, out.width = "80%"}
 knitr::include_graphics('ludwig2.PNG')
 ``` 
 
@@ -21,14 +21,14 @@ Ein Merkmal der Industriewälder ist, dass kaum in die natürliche Entwicklung d
 knitr::include_graphics('ludwig3.PNG')
 ```
 
-```{r, echo = F, warning = F, fig.cap = '*Herumliegende Baumstämme und Gehölz (Quelle: Eigene Darstellung 2021)*', fig.width = 4, out.width = "100%"}
+```{r, echo = F, warning = F, fig.cap = '*Herumliegende Baumstämme und Gehölz (Quelle: Eigene Aufnahme 2021)*', fig.width = 4, out.width = "100%"}
 knitr::include_graphics('ludwig4.PNG')
 ``` 
 
 
 Das zweite Indiz für den geringen Eingriff durch den Menschen in die Entwicklung des Waldes ist die Wegeführung. Denn es gibt in dem Wald (bis auf den „Eingangsbereich“ des Waldes, der bis zu einer Schranke führt) keine normalen, breiten Wege, wie sie sonst in durch Menschen genutzten und unter förstlicher Aufsicht stehenden Wäldern üblich sind. Es gibt lediglich einige sehr schmale Trameplpfade, die sich eher an den Rändern des Waldes befinden, zudem gibt es im Zentrum des Waldes gar keine Wegeführung (sondern man kann überall langgehen), was dem Wald einen teilweise hallenartigen Charakter verleiht. 
  
-```{r, echo = F, warning = F, fig.cap = '*Links: schmaler Trampelpfad Mitte & Rechts: Offener Wald ohne Wegeführung (Quelle: Eigene Darstellung 2021)*', fig.width = 4, out.width = "80%"}
+```{r, echo = F, warning = F, fig.cap = '*Links: schmaler Trampelpfad Mitte & Rechts: Offener Wald ohne Wegeführung (Quelle: Eigene Aufnahme 2021)*', fig.width = 4, out.width = "80%"}
 knitr::include_graphics('ludwig6.PNG')
 ``` 
 
@@ -36,7 +36,7 @@ Es muss auch festgehalten werden, dass sich dieser Wald nicht wirklich für Frei
 Hinsichtlich menschlicher Nutzung ist ansonsten noch erwähnenswert, dass sich relativ zu Beginn des Waldes (hinter der Schranke) ein Vereinsheim eines Hundesportvereins (DVG e.V.) mitsamt eines größeren, abgegrenzten Parks befindet. Hier war auch die Person mit ihrem Hund unterwegs. 
 
 
-```{r, echo = F, warning = F, fig.cap = '*Links: Vereinsheim Hundesport Rechts: Dazugehöriger Park (Quelle: Eigene Darstellung 2021)*', fig.width = 4, out.width = "80%"}
+```{r, echo = F, warning = F, fig.cap = '*Links: Vereinsheim Hundesport Rechts: Dazugehöriger Park (Quelle: Eigene Aufnahme 2021)*', fig.width = 4, out.width = "80%"}
 knitr::include_graphics('ludwig7.PNG')
 ``` 
 
@@ -44,12 +44,12 @@ knitr::include_graphics('ludwig7.PNG')
 Am östlichen Rand ist der Wald durch einen Zaun begrenzt. Allerdings ist der Zaun an einer Stelle, die zu einem offenen Feld und einer dahinterliegenden Straße führt (auf der sich auch der neue Radtrassenweg, der auf einer alten Bahntrasse der Zeche entstanden ist, befindet) kaputt, sodass man problemlos von dort aus in den Wald eintreten kann. Am westlichen und südlichen Rand schließen sich direkt Wohnbebauung sowie auch landwirtschaftlich genutzte Flächen an den Wald an. Nördlich grenzt ein Industriegebiet an den Wald. Hier befindet sich auch ein Parkplatz.
 
 
-```{r, echo = F, warning = F, fig.cap = '*Links: Umzäunung Rechts: Kaputter Zaun mit offenem Feld und Straße dahinter (Quelle: Eigene Darstellung 2021)*', fig.width = 4, out.width = "80%"}
+```{r, echo = F, warning = F, fig.cap = '*Links: Umzäunung Rechts: Kaputter Zaun mit offenem Feld und Straße dahinter (Quelle: Eigene Aufnahme 2021)*', fig.width = 4, out.width = "80%"}
 knitr::include_graphics('ludwig8.PNG')
 ``` 
        
 
-```{r, echo = F, warning = F, fig.cap = '*Wohnbebauung angrenzend an den Wald (Quelle: Eigene Darstellung 2021)*', fig.width = 4, out.width = "80%"}
+```{r, echo = F, warning = F, fig.cap = '*Wohnbebauung angrenzend an den Wald (Quelle: Eigene Aufnahme 2021)*', fig.width = 4, out.width = "80%"}
 knitr::include_graphics('ludwig9.PNG')
 ``` 
 

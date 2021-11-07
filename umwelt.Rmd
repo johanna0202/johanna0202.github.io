@@ -14,8 +14,8 @@ Den Industriewäldern im Ruhrgebiet werden im ökologischen Sinne einen hohen Nu
 
 Neben den ökologischen Folgen, stellen die neuerstandenen Wälder Erholungsgebiete mit einem hohen Freizeitfaktor für die Bevölkerung dar. Neben Tätigkeiten wie sportlichen Aktivitäten oder als Ort zum Verweilen und zum Begegnen, werden die Wälder zudem zu pädagogischen Zwecken genutzt: Der Wandel von einer montanindustriell-geprägten Fläche hin zu einem ökologisch – jungen – und einzigartigen Naturraum mit einer hohen Biodiversität, begeistern dabei Jung und Alt. So werden verschiedene waldpädagogische Aktivitäten auf den jeweiligen Internetplattformen der Industriewälder angeboten.
 
-```{r, echo = F, warning = F, fig.cap = '*Quelle: Microsoft 2021*', fig.width = 4, out.width = "100%"}
-knitr::include_graphics('umwelt_1.png')
+```{r, echo = F, warning = F, fig.cap = '*Quelle: Eigene Aufnahme 2021*', fig.width = 4, out.width = "100%"}
+knitr::include_graphics('umwelt_2.png')
 ```
 
 ***
