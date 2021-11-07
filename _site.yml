@@ -11,9 +11,9 @@ navbar:
     - text: "Exemplarische Eindrücke"
       href: beispiele.html
       menu:
-        - text: "Industriewald X"
+        - text: "Industriewald Rheinelbe"
           href: industriewald1.html
-        - text: "Industriewald Y"
+        - text: "Industriewald König Ludwig 1/2"
           href: industriewald2.html
 
   right:

@@ -2,4 +2,24 @@
 title: "Über uns"
 ---
 
-Wir sind eine Gruppe von Studierenden der Universität Bonn ...
+***
+
+Die Website wurde von einer Gruppe von drei Studenten der Rheinischen Friedrich-Wilhelms-Universität Bonn gestaltet. Im Rahmen eines Methodenseminars im Studiengang Geographie ging es darum, einen Internetauftritt rund um die Industriewälder zu entwickeln. Das Hauptaugenmerk lag dabei auf der Entwicklung einer neuen, interaktiven Karte der Industriewälder, die vom Verein Industriewald e.V. betreut werden. Darüber hinaus wurden Informationen zusammengetragen, um ein übersichtlicheres und vollständigeres Gesamtbild zu erhalten. Wir wünschen Ihnen viel Spaß beim Entdecken der Industriewälder im Ruhrgebiet!
+
+Katharina Weber, Christoph Freichel und Johanna Märtens 
+
+***
+
+**Impressum:**
+
+Geographisches Institut der Universität Bonn
+
+Arbeitsgruppe von Katharina Weber, Christoph Freichel und Johanna Märtens
+
+Adresse: Meckenheimer Allee 166, 53115 Bonn
+
+Telefon: +49 228 73-7290
+
+E-Mail: s6kawebe@uni-bonn.de s6jomaer@uni-bonn.de
+
+***
