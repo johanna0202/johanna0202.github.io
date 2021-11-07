@@ -27,6 +27,6 @@ knitr::include_graphics('umwelt_1.png')
 
 BUNDESMINISTERIUM FÜR UMWELT, NATURSCHUTZ, BAU UND REAKTORSICHERHEIT (2015):  Grün in der Stadt - Für eine lebenswerte Zukunft. Abrufbar unter: https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/bauen/wohnen/gruenbuch-stadtgruen.pdf?__blob=publicationFile&v=3 (letzter Abruf: 04.11.2021)
 
-Stiftung Zollverein (2021): Natur auf Zollverein - Ein einzigartiger Lebensraum. Abrufbar unter: https://www.zollverein.de/app/uploads/2018/02/Natur-auf-Zollverein.pdf (letzter Abruf: 04.11.2021) 
+STIFTUNG ZOLLVEREIN (2021): Natur auf Zollverein - Ein einzigartiger Lebensraum. Abrufbar unter: https://www.zollverein.de/app/uploads/2018/02/Natur-auf-Zollverein.pdf (letzter Abruf: 04.11.2021) 
 
 ***
